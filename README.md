@@ -14,6 +14,7 @@ Create App.vue
 
 
 Create a layout component, <slot> is required, nothing special.
+
 **src/components/layouts/Jumbotron.vue**
 
 ```html
@@ -50,6 +51,7 @@ Create a layout component, <slot> is required, nothing special.
 
 
 Create a view component.
+
 **src/views/Home.vue**
 
 ```
@@ -60,7 +62,8 @@ Create a view component.
 
 
 
-Configure routes
+Configure routes.
+
 **src/router/index.js**
 
 ```javascript
