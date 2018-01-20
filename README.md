@@ -13,7 +13,7 @@ Create App.vue
 
 
 
-Create a layout component, <slot> is required, nothing special.
+Create a layout component, `<slot>` is required, but nothing special.
 
 **src/components/layouts/Jumbotron.vue**
 
